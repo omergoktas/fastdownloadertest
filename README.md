@@ -2,7 +2,7 @@
 
 Example project to introduce more detailed use cases of [fastdownloader library](https://github.com/omergoktas/fastdownloader)
 
-# How to?
+## How to?
 
   1. Dowload project by using following command:
      
