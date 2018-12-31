@@ -1,0 +1,3 @@
+[submodule "fastdownloader"]
+	path = fastdownloader
+	url = https://github.com/omergoktas/fastdownloader
