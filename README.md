@@ -8,7 +8,7 @@ Example project to introduce more detailed use cases of [fastdownloader library]
      
          git clone https://github.com/omergoktas/fastdownloadertest --recursive
   
-  2. Open ```fastdownloader.pro``` file in Qt Creator (tested with Qt 5.12.0)
+  2. Open ```fastdownloadertest.pro``` file in Qt Creator (tested with Qt 5.12.0)
   
   3. Build and run
   
