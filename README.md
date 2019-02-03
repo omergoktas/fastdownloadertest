@@ -1,6 +1,6 @@
 # fastdownloadertest
 
-Example project to introduce more detailed use cases of [fastdownloader library](https://github.com/omergoktas/fastdownloader)
+Example project for [fastdownloader library](https://github.com/omergoktas/fastdownloader)
 
 ## How to?
 
